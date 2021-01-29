@@ -4,21 +4,18 @@
   "description": "Teste os seus conhecimentos sobre a cultura sneakerhead!",
   "questions": [
     {
-      "image": "https://media3.giphy.com/media/yBAGpfh3QplEA/giphy.gif",
-      "title": "Como fazer um seletor por id via CSS?",
+      "image": "https://media.giphy.com/media/8Fu8kygveDQ13c52CS/giphy.gif",
+      "title": "Qual a colorway original do icônico Vans SK8-HI?",
       "description": "Essa é pra aquecer",
       "answer": 2,
-      "alternatives": [".elemento", "*elemento", "#elemento", "%elemento"]
+      "alternatives": ["Black/White", "Triple Black", "Cinnamon", "Navy Blue"]
     },
     {
-      "image": "https://media.giphy.com/media/13FrpeVH09Zrb2/giphy.gif",
-      "title": "Como fazer um background gradiente com css?",
+      "image": "https://i.pinimg.com/originals/80/a8/98/80a8981b3588629b7fd0c20535e667e4.gif",
+      "title": "A bolha visível de ar do Nike Air Max 1 foi inspirada em o que?",
       "description": "Faz tempo em haha",
-      "answer": 0,
-      "alternatives": [
-        "background: linear-gradient(#e66465, #9198e5);",
-        "background: gradient(#e66465, #9198e5);"
-      ]
+      "answer": 1,
+      "alternatives": ["Pneus brancos", "Arquitetura de um museu", "Janelas de apartamentos", "Água cristalina"]
     }
   ],
   "external": [""],

@@ -18,7 +18,7 @@
       "alternatives": ["Pneus brancos", "Arquitetura de um museu", "Janelas de apartamentos", "Água cristalina"]
     }
   ],
-  "external": [""],
+  "external": ["https://aluraquiz-base.alura-challenges.vercel.app/"],
   "theme": {
     "colors": {
       "primary": "#CE1141",

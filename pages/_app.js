@@ -35,9 +35,9 @@ const { theme } = db;
 export default function App({ Component, pageProps }) {
   return (
     <>
+      <Head />
       <ThemeProvider theme={theme}>
         <GlobalStyle />
-        <Head />
         {/* eslint-disable-next-line react/jsx-props-no-spreading */}
         <Component {...pageProps} />
       </ThemeProvider>

@@ -6,19 +6,45 @@
     {
       "image": "https://media.giphy.com/media/8Fu8kygveDQ13c52CS/giphy.gif",
       "title": "Qual a colorway original do icônico Vans SK8-HI?",
-      "description": "Essa é pra aquecer",
+      "description": "Da cor da canela",
       "answer": 2,
       "alternatives": ["Black/White", "Triple Black", "Cinnamon", "Navy Blue"]
     },
     {
       "image": "https://i.pinimg.com/originals/80/a8/98/80a8981b3588629b7fd0c20535e667e4.gif",
       "title": "A bolha visível de ar do Nike Air Max 1 foi inspirada em o que?",
-      "description": "Faz tempo em haha",
+      "description": "Big inspiration",
       "answer": 1,
       "alternatives": ["Pneus brancos", "Arquitetura de um museu", "Janelas de apartamentos", "Água cristalina"]
+    },
+    {
+      "image": "https://cdn.dribbble.com/users/322079/screenshots/2316427/asics-sneakers-dribble.gif",
+      "title": "Qual é o país sede da marca ASICS?",
+      "description": "こんにちは",
+      "answer": 0,
+      "alternatives": ["Japão", "China", "Estados Unidos", "Itália"]
+    },
+    {
+      "image": "https://media3.giphy.com/media/9VmjyeVVyTH2D6qStp/200.gif",
+      "title": "Qual desses músicos não é parceiro da adidas?",
+      "description": "Acho que vi ele no fortnite...",
+      "answer": 2,
+      "alternatives": ["Pharrell Wiliams", "Kanye West", "Travis Scott", "Pusha T"]
+    },
+    {
+      "image": "https://media3.giphy.com/media/X7WOeC3eCHsLC/giphy.gif",
+      "title": "Qual marca ficou famosa por ser o nome de uma música do grupo RUN DMC?",
+      "description": "My ♪♪♪♪♪",
+      "answer": 3,
+      "alternatives": ["Nike", "New Balance", "Asics", "Adidas"]
     }
   ],
-  "external": ["https://aluraquiz-base.alura-challenges.vercel.app/"],
+  "external": [
+    "https://aluraquiz-base.alura-challenges.vercel.app/",
+    "https://lolzinquiz-git-main.bernardooficial.vercel.app/",
+    "https://avengersquiz.penadev.vercel.app/",
+    "https://aluraquiz-base.caioharuo.vercel.app/"
+  ],
   "theme": {
     "colors": {
       "primary": "#CE1141",
